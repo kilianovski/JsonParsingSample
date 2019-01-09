@@ -18,6 +18,10 @@ Send `POST` request to _http://localhost:53346/api/values_ with body:
 
 ## Actual behaviour
 
-200 (ok) is returned
+200 (ok) is returned:
+
+```
+Welcome, Fish! I know, that you are 12 y.o.
+```
 
 
